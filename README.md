@@ -26,6 +26,4 @@
 
 ## Автор
 
-Программа была разработана Гимишяном Ашотом.
-
-github.com/ashot-gimishyan
+© Gimishyan Production
